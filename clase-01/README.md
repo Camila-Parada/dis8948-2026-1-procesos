@@ -62,7 +62,7 @@ En esta muestra, el espacio se compone de instalaciones interactivas que utiliza
 
 Esta experiencia ha sido organizada por el [Ars Electronica Center](https://ars.electronica.art/news/en/), un centro cultural reconocido como el “Museo del futuro”, que trabaja con una multiplicidad de disciplinas vinculadas a los nuevos medios y tecnologías emergentes para la creación de obras y experiencias expositivas.
 
-![image.png](attachment:4d39734d-36f2-49d6-9c30-34e48c825969:e67341a1-e887-4faf-8e33-132b3f60baf3.png)
+![image.png](./imagenes/exhibicion-que-es-la-ia.png)
 
 Con este antecedente es que se procede a analizar una de las obras que participa.
 
@@ -79,7 +79,7 @@ De este modo, la obra pone en evidencia cómo la IA puede construir identidades 
 
 A través de este proceso, la instalación invita a reflexionar sobre el uso de nuestros datos, la vigilancia constante y el rol de la inteligencia artificial en la construcción de nuevas formas de representación e identidad en la era digital.
 
-![image.png](attachment:bef6e7e7-ed31-47f5-b1fe-323a80920b06:db1ff25a-4198-413f-bf0e-eb797b6fa91f.png)
+![image.png](./imagenes/what-a-ghost-dream-of.png)
 
 ### Elementos del sistema
 
