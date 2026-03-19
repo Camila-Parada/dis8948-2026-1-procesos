@@ -6,7 +6,7 @@ Jueves 12 Marzo 2026
 
 ## Observaciones
 
-Primera clase, comienzo a las 10:00. La lista pasa 15 min. tras la hora, tras eso queda ausente.
+Primera clase, comienza a las 10:00. La lista pasa 15 min. tras la hora, tras eso queda ausente.
 Se nos avisó que la comunicación será vía "discord" y "correo". Las sesiones escritas serán subidas en "Notion".
 
 [Descripción del curso](https://field-mine-ef5.notion.site/Interacciones-Digitales-dis8948-31151d9cbb998078b0cdec5c39fa3ec8)
