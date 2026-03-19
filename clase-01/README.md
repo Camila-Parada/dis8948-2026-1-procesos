@@ -49,7 +49,7 @@ Una relación estética entre la acción del usuario y la respuesta del sistema.
 
 ***
 
-### Encargo 01: 
+### Encargo 01: Understanding AI
 
 Investigar, buscar y encontrar un sistema de interacción digital que se enmarque en los tipos de sistemas presentados durante esta clase.
 Escribir un blog post describiendo el sistema de interacción digital en términos espaciales, tecnológicos, materiales y experienciales.
